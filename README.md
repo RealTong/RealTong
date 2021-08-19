@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Wu Shutong <img src="https://raw.githubusercontent.com/Wowooco/Wowooco/main/wave.gif" width="30px">
+
+<hr>
+
+I am Wu Shutong,people call me Wu Yanzu,I am a junior college student in Yuncheng Agricultural Vocational and Technical School(Education may be my most inferiority).I am a tech enthusiast & an open-source advocate.I am always open to collaborating on projects and innovative/disruptive ideas. 
+
+
 
 <!--
 **Wowooco/Wowooco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
