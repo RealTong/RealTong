@@ -2,7 +2,7 @@
 
 
 
-I am Wu Shutong,people call me Wu Yanzu,19 years old,I am a junior college student in Yuncheng Agricultural Vocational and Technical School(Education may be my most inferiority?).I am a tech enthusiast.I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am Wu Shutong,people call me Wu Yanzu,19 years old,I am a junior college student in Yuncheng Agricultural Vocational and Technical School.I am a tech enthusiast.I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 
 
