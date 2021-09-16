@@ -2,11 +2,9 @@
 
 
 
-I am Wu Shutong,people call me Wu Yanzu,19 years old,I am a junior college student in Yuncheng Agricultural Vocational and Technical School.I am a tech enthusiast.I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am Wu Shutong,people call me Wu Yanzu,I am a student in Yuncheng Agricultural Vocational and Technical School.I am a tech enthusiast.I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 
-
-I love to talk on 🎥Movies, 📺streaming media, 🎭games.If you talk about sports, I like ⛰mountain climbing and 🏸badminton the most. I love them the most.Of course you can also communicate with me, I am very willing.
 
 [![Mail](https://img.shields.io/badge/-me@wushutong.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@wushutong.cn)](mailto:me@wushutong.cn)
 
