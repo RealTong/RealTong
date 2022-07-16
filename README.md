@@ -8,7 +8,10 @@ I am Wu Shutong,people call me Wu Yanzu
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 16 June 2022 - To: 16 July 2022
+
+Markdown       36 mins         ████████▒░░░░░░░░░░░░░░░░   33.63 %
+Other          34 mins         ████████░░░░░░░░░░░░░░░░░   32.17 %
 ```
 
 <!--END_SECTION:waka-->
