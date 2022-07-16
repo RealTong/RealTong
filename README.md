@@ -24,6 +24,11 @@ No activity tracked
 ### 博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [I got tired of open-source](https://spencerwoo.com/blog/tired-of-open-source)
+- [Revisiting blogging with Notion in 2022](https://spencerwoo.com/blog/revisiting-blogging-with-notion-2022)
+- [How I accidentally added proxied download to onedrive-vercel-index](https://spencerwoo.com/blog/accidents-happen-its-ok-kisses)
+- [长草了，给大家推荐几个原神相关的好工具吧](https://spencerwoo.com/blog/genshin-impact-tools)
+- [Last day of quarantine](https://spencerwoo.com/blog/last-day-of-quarantine)
 <!-- BLOG-POST-LIST:END -->
 
 
