@@ -10,6 +10,11 @@ I am Wu Shutong,people call me Wu Yanzu,I am a student in Yuncheng Agricultural 
 
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
