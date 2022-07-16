@@ -12,6 +12,14 @@ I am Wu Shutong,people call me Wu Yanzu,I am a student in Yuncheng Agricultural 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+---
+### 最近活动
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 
 ## 🍳 OS & Tools & Programming
 
