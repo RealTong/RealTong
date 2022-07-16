@@ -20,6 +20,11 @@ I am Wu Shutong,people call me Wu Yanzu,I am a student in Yuncheng Agricultural 
 
 ---
 
+### 博客文章
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ## 🍳 OS & Tools & Programming
 
