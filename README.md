@@ -1,9 +1,11 @@
-## Hi, I'm Wu Shutong<img src="https://raw.githubusercontent.com/Wowooco/Wowooco/main/wave.gif" width="30px">
+## Hi, RealTong <img src="https://raw.githubusercontent.com/Wowooco/Wowooco/main/wave.gif" width="30px">
 
 
 
-I am Wu Shutong,people call me Wu Yanzu
-
+- 🔭 I’m currently working on **An IoT company**
+- 🌱 I’m currently learning **Java and React**
+- 💬 Ask me about **Java, React and Linux**
+- 📫 How to reach me: **i#realtong.cn** on Email
 
 <!--START_SECTION:waka-->
 
@@ -30,9 +32,8 @@ No activity tracked
 [![](https://raw.githubusercontent.com/RealTong/RealTong/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/RealTong/RealTong/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RealTong/RealTong/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/RealTong/RealTong/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RealTong/RealTong/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=realtong&show_icons=true&locale=en&layout=compact)](https://github.com/realtong)
+[![](https://github-readme-stats.vercel.app/api?username=realtong&show_icons=true&locale=en)](https://github.com/realtong)
 
 ## 🍳 OS & Tools & Programming
 
