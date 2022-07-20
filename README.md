@@ -10,10 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 June 2022 - To: 19 July 2022
+From: 20 June 2022 - To: 20 July 2022
 
-Markdown       55 mins         ████████▒░░░░░░░░░░░░░░░░   33.85 %
-Other          34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
+Markdown       55 mins         ████████░░░░░░░░░░░░░░░░░   32.20 %
+Other          34 mins         █████░░░░░░░░░░░░░░░░░░░░   20.39 %
 ```
 
 <!--END_SECTION:waka-->
