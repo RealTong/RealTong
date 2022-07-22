@@ -10,10 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 June 2022 - To: 21 July 2022
+From: 22 June 2022 - To: 22 July 2022
 
-YAML           1 hr 53 mins    ████████░░░░░░░░░░░░░░░░░   32.56 %
-Other          1 hr 17 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
+Other          2 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.89 %
 ```
 
 <!--END_SECTION:waka-->
