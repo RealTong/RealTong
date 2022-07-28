@@ -2,12 +2,12 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
   update-waka:
-    name: Update Readme with Metrics
+    name: Update wakatime
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -17,8 +17,8 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
   update-activity:
+    name: Update latest events
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
@@ -27,7 +27,7 @@ jobs:
         with:
           MAX_LINES: 5
   update-latest-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -47,5 +47,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # UTC_OFFSET is optional, default to zero
           UTC_OFFSET: 8
