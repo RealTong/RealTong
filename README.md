@@ -41,10 +41,6 @@ Other                 3 hrs 5 mins    ███████░░░░░░░
 - [美化7-zip](https://spencerwoo.com/blog/3)
 <!-- BLOG-POST-LIST:END -->
 
-
-[![](https://raw.githubusercontent.com/RealTong/RealTong/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RealTong/RealTong/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RealTong/RealTong/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RealTong/RealTong/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RealTong/RealTong/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=realtong&show_icons=true&locale=en&layout=compact)](https://github.com/realtong)
 [![](https://github-readme-stats.vercel.app/api?username=realtong&show_icons=true&locale=en)](https://github.com/realtong)
 
