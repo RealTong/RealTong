@@ -33,7 +33,7 @@ Other                 3 hrs 5 mins    ███████░░░░░░░
 ### 博客文章
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows开发环境最佳实践](https://spencerwoo.com/blog/windows-develop-practice)
+- [开发环境最佳实践](https://spencerwoo.com/blog/windows-develop-practice)
 - [辞职了!  Next stop?](https://spencerwoo.com/blog/7)
 - [快速 安全 低成本回家方案 - WireGuard](https://spencerwoo.com/blog/8)
 - [美化PowerShell和Terminal](https://spencerwoo.com/blog/4)
