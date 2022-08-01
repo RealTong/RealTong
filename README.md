@@ -34,11 +34,10 @@ Other                 3 hrs 5 mins    ███████░░░░░░░
 ### 博客文章
 
 <!-- BLOG-POST-LIST:START -->
-- [开发环境最佳实践](https://spencerwoo.com/blog/windows-develop-practice)
 - [辞职了!  Next stop?](https://spencerwoo.com/blog/7)
 - [快速 安全 低成本回家方案 - WireGuard](https://spencerwoo.com/blog/8)
-- [美化PowerShell和Terminal](https://spencerwoo.com/blog/4)
 - [美化7-zip](https://spencerwoo.com/blog/3)
+- [学习通](https://spencerwoo.com/blog/1)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=realtong&show_icons=true&locale=en&layout=compact)](https://github.com/realtong)
