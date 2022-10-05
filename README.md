@@ -10,14 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 02 October 2022
+From: 03 September 2022 - To: 03 October 2022
 
-Java                  7 hrs 57 mins   ███████████▒░░░░░░░░░░░░░   45.14 %
-XML                   2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-Python                1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Text                  1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-YAML                  46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Other                 45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Java                  8 hrs 44 mins   ███████████░░░░░░░░░░░░░░   43.79 %
+XML                   2 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+Other                 1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
 ```
 
 <!--END_SECTION:waka-->
