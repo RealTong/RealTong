@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 September 2022 - To: 08 October 2022
+From: 09 September 2022 - To: 09 October 2022
 
-Java                  15 hrs 6 mins   █████████████▓░░░░░░░░░░░   54.37 %
-XML                   3 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-Other                 2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Java                  17 hrs 21 mins  ██████████████▓░░░░░░░░░░   58.21 %
+XML                   3 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+Other                 2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
 ```
 
 <!--END_SECTION:waka-->
