@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2022 - To: 11 November 2022
+From: 13 October 2022 - To: 12 November 2022
 
-Vue.js                     32 hrs 27 mins  ████████░░░░░░░░░░░░░░░░░   31.36 %
-Java                       29 hrs 18 mins  ███████░░░░░░░░░░░░░░░░░░   28.33 %
-YAML                       8 hrs 57 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-JSON                       6 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-TypeScript                 6 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-JavaScript                 5 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Vue.js                     35 hrs 21 mins  ████████▒░░░░░░░░░░░░░░░░   33.04 %
+Java                       30 hrs 8 mins   ███████░░░░░░░░░░░░░░░░░░   28.16 %
+YAML                       9 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+JSON                       6 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+TypeScript                 6 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+JavaScript                 5 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 ```
 
 <!--END_SECTION:waka-->
