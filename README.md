@@ -38,7 +38,6 @@ JSON                       4 hrs 52 mins   █▒░░░░░░░░░░�
 ### 博客文章
 
 <!-- BLOG-POST-LIST:START -->
-- [辞职了!  Next stop?](https://spencerwoo.com/blog/7)
 - [快速 安全 低成本回家方案 - WireGuard](https://spencerwoo.com/blog/8)
 - [美化7-zip](https://spencerwoo.com/blog/3)
 - [学习通](https://spencerwoo.com/blog/1)
