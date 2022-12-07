@@ -26,7 +26,7 @@ JSON                       4 hrs 52 mins   █▒░░░░░░░░░░�
 ### 最近活动
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/MoshiCoCo/docker-compose-hub/pull/9) in [MoshiCoCo/docker-compose-hub](https://github.com/MoshiCoCo/docker-compose-hub)
+1. 💪 Opened PR [#11](https://github.com/fuergaosi233/wechat-chatgpt/pull/11) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 2. 🗣 Commented on [#1309](https://github.com/Mrs4s/go-cqhttp/issues/1309) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 3. 🎉 Merged PR [#1](https://github.com/antwuu/hezu_wiki/pull/1) in [antwuu/hezu_wiki](https://github.com/antwuu/hezu_wiki)
 4. 💪 Opened PR [#1](https://github.com/antwuu/hezu_wiki/pull/1) in [antwuu/hezu_wiki](https://github.com/antwuu/hezu_wiki)
