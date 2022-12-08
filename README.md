@@ -26,11 +26,11 @@ JSON                       4 hrs 55 mins   █▒░░░░░░░░░░�
 ### 最近活动
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/fuergaosi233/wechat-chatgpt/pull/11) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-2. 🗣 Commented on [#1309](https://github.com/Mrs4s/go-cqhttp/issues/1309) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
-3. 🎉 Merged PR [#1](https://github.com/antwuu/hezu_wiki/pull/1) in [antwuu/hezu_wiki](https://github.com/antwuu/hezu_wiki)
-4. 💪 Opened PR [#1](https://github.com/antwuu/hezu_wiki/pull/1) in [antwuu/hezu_wiki](https://github.com/antwuu/hezu_wiki)
-5. 💪 Opened PR [#3](https://github.com/ShadowsSide/hezu_wiki/pull/3) in [ShadowsSide/hezu_wiki](https://github.com/ShadowsSide/hezu_wiki)
+1. 💪 Opened PR [#41](https://github.com/fuergaosi233/wechat-chatgpt/pull/41) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+2. 🗣 Commented on [#37](https://github.com/fuergaosi233/wechat-chatgpt/issues/37) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+3. 🗣 Commented on [#35](https://github.com/fuergaosi233/wechat-chatgpt/issues/35) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+4. 🗣 Commented on [#27](https://github.com/fuergaosi233/wechat-chatgpt/issues/27) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+5. 🗣 Commented on [#26](https://github.com/fuergaosi233/wechat-chatgpt/issues/26) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 <!--END_SECTION:activity-->
 
 ---
