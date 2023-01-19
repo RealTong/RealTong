@@ -26,11 +26,11 @@ JavaScript                 3 hrs 15 mins   █▒░░░░░░░░░░�
 ### 最近活动
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#319](https://github.com/SagerNet/sing-box/issues/319) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-2. ❗️ Opened issue [#319](https://github.com/SagerNet/sing-box/issues/319) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-3. ❗️ Closed issue [#489](https://github.com/fuergaosi233/wechat-chatgpt/issues/489) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-4. 🎉 Merged PR [#493](https://github.com/fuergaosi233/wechat-chatgpt/pull/493) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-5. 💪 Opened PR [#493](https://github.com/fuergaosi233/wechat-chatgpt/pull/493) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+1. 🗣 Commented on [#496](https://github.com/fuergaosi233/wechat-chatgpt/issues/496) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+2. 🗣 Commented on [#500](https://github.com/fuergaosi233/wechat-chatgpt/issues/500) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+3. 🗣 Commented on [#499](https://github.com/fuergaosi233/wechat-chatgpt/issues/499) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+4. 🗣 Commented on [#319](https://github.com/SagerNet/sing-box/issues/319) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+5. ❗️ Opened issue [#319](https://github.com/SagerNet/sing-box/issues/319) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
 <!--END_SECTION:activity-->
 
 ---
