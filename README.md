@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 29 January 2023
+From: 31 December 2022 - To: 30 January 2023
 
 JSON                       9 hrs 59 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
 Java                       8 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
