@@ -10,12 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 January 2023 - To: 01 February 2023
+From: 03 January 2023 - To: 02 February 2023
 
-JSON                       9 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
-Java                       8 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-Vue.js                     4 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Other                      4 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+JSON                       10 hrs 6 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+Java                       5 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+Other                      4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
 ```
 
 <!--END_SECTION:waka-->
