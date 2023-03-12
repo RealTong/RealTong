@@ -26,11 +26,11 @@ Other                      3 hrs 22 mins   █░░░░░░░░░░░�
 ### 最近活动
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#693](https://github.com/fuergaosi233/wechat-chatgpt/issues/693) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-2. 🗣 Commented on [#695](https://github.com/fuergaosi233/wechat-chatgpt/issues/695) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-3. 🗣 Commented on [#699](https://github.com/fuergaosi233/wechat-chatgpt/issues/699) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-4. ❗️ Closed issue [#697](https://github.com/fuergaosi233/wechat-chatgpt/issues/697) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-5. ❗️ Closed issue [#685](https://github.com/fuergaosi233/wechat-chatgpt/issues/685) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+1. 🎉 Merged PR [#708](https://github.com/fuergaosi233/wechat-chatgpt/pull/708) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+2. 💪 Opened PR [#708](https://github.com/fuergaosi233/wechat-chatgpt/pull/708) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+3. 🗣 Commented on [#688](https://github.com/fuergaosi233/wechat-chatgpt/issues/688) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+4. 🗣 Commented on [#700](https://github.com/fuergaosi233/wechat-chatgpt/issues/700) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+5. 🎉 Merged PR [#705](https://github.com/fuergaosi233/wechat-chatgpt/pull/705) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 <!--END_SECTION:activity-->
 
 ---
