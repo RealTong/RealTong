@@ -26,11 +26,11 @@ TypeScript                 4 hrs 53 mins   █▓░░░░░░░░░░�
 ### 最近活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#708](https://github.com/fuergaosi233/wechat-chatgpt/pull/708) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-2. 💪 Opened PR [#708](https://github.com/fuergaosi233/wechat-chatgpt/pull/708) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-3. 🗣 Commented on [#688](https://github.com/fuergaosi233/wechat-chatgpt/issues/688) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-4. 🗣 Commented on [#700](https://github.com/fuergaosi233/wechat-chatgpt/issues/700) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-5. 🎉 Merged PR [#705](https://github.com/fuergaosi233/wechat-chatgpt/pull/705) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+1. 🗣 Commented on [#494](https://github.com/fuergaosi233/wechat-chatgpt/issues/494) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+2. 🗣 Commented on [#706](https://github.com/fuergaosi233/wechat-chatgpt/issues/706) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+3. 🗣 Commented on [#709](https://github.com/fuergaosi233/wechat-chatgpt/issues/709) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+4. ❗️ Closed issue [#711](https://github.com/fuergaosi233/wechat-chatgpt/issues/711) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+5. 🗣 Commented on [#711](https://github.com/fuergaosi233/wechat-chatgpt/issues/711) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 <!--END_SECTION:activity-->
 
 ---
