@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning **Java and React**
 - 💬 Ask me about **Java, React and Linux**
 - 📫 How to reach me: **i#realtong.cn** on Email
+- My PGP Key: [ed25519/0CC8 F405 497C 7DF6 5106 8985 A9EA 24D5 6A13 E542](https://github.com/RealTong.gpg)
+  - ed25519/0x5231719D046AFA48(signing subkey)
+  - cv25519/0xF55FCC55F395A32D(encryption subkey)
+  - ed25519/0xD20C1236213B3045(authentication subkey)
 
 <!--START_SECTION:waka-->
 
@@ -22,7 +26,7 @@ Markdown                   5 hrs 9 mins    ██░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-### 最近活动
+### Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#714](https://github.com/fuergaosi233/wechat-chatgpt/pull/714) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
@@ -34,7 +38,7 @@ Markdown                   5 hrs 9 mins    ██░░░░░░░░░░�
 
 ---
 
-### 博客文章
+### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [快速 安全 低成本回家方案 - WireGuard](https://spencerwoo.com/blog/8)
