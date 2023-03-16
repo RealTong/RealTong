@@ -2,7 +2,6 @@
 
 
 
-- 🔭 I’m currently working on **An IoT company**
 - 🌱 I’m currently learning **Java and React**
 - 💬 Ask me about **Java, React and Linux**
 - 📫 How to reach me: **i#realtong.cn** on Email
