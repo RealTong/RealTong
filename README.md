@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java and React**
 - 💬 Ask me about **Java, React and Linux**
-- 📫 How to reach me: **i#realtong.cn** on Email
+- 📫 How to reach me: **[i#realtong.cn](mailto:i@realtong.cn)** on Email
 - 🔑 PGP Key: [ed25519/0CC8 F405 497C 7DF6 5106 8985 A9EA 24D5 6A13 E542](https://github.com/RealTong.gpg) (Master Key)
   
   - `ed25519/0x5231719D046AFA48(signing subkey)`
