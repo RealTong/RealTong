@@ -30,11 +30,11 @@ Markdown                   5 hrs 32 mins   █▓░░░░░░░░░░�
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#754](https://github.com/fuergaosi233/wechat-chatgpt/issues/754) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-2. ❗️ Closed issue [#670](https://github.com/fuergaosi233/wechat-chatgpt/issues/670) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-3. 🗣 Commented on [#788](https://github.com/fuergaosi233/wechat-chatgpt/issues/788) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-4. ❗️ Closed issue [#763](https://github.com/fuergaosi233/wechat-chatgpt/issues/763) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-5. ❗️ Closed issue [#760](https://github.com/fuergaosi233/wechat-chatgpt/issues/760) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+1. ❗️ Closed issue [#798](https://github.com/fuergaosi233/wechat-chatgpt/issues/798) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+2. ❗️ Closed issue [#796](https://github.com/fuergaosi233/wechat-chatgpt/issues/796) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+3. 🗣 Commented on [#796](https://github.com/fuergaosi233/wechat-chatgpt/issues/796) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+4. 🗣 Commented on [#798](https://github.com/fuergaosi233/wechat-chatgpt/issues/798) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+5. ❗️ Closed issue [#754](https://github.com/fuergaosi233/wechat-chatgpt/issues/754) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 <!--END_SECTION:activity-->
 
 ---
