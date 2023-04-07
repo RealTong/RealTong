@@ -37,18 +37,6 @@ Bash                       3 hrs 7 mins    ▓░░░░░░░░░░░�
 5. ❗️ Closed issue [#856](https://github.com/fuergaosi233/wechat-chatgpt/issues/856) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 <!--END_SECTION:activity-->
 
----
-
-### Recent Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [快速 安全 低成本回家方案 - WireGuard](https://spencerwoo.com/blog/8)
-- [美化7-zip](https://spencerwoo.com/blog/3)
-- [学习通](https://spencerwoo.com/blog/1)
-<!-- BLOG-POST-LIST:END -->
-
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=realtong&show_icons=true&locale=en&layout=compact)](https://github.com/realtong)
-[![](https://github-readme-stats.vercel.app/api?username=realtong&show_icons=true&locale=en)](https://github.com/realtong)
 
 ## 🍳 OS & Tools & Programming
 
