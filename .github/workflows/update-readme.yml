@@ -25,3 +25,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           MAX_LINES: 5
+  update-latest-blog:
+    name: Update latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in realtong.cn posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://realtong.cn/feed"

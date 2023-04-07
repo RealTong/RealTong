@@ -37,6 +37,11 @@ Bash                       3 hrs 7 mins    ▓░░░░░░░░░░░�
 5. ❗️ Closed issue [#856](https://github.com/fuergaosi233/wechat-chatgpt/issues/856) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 <!--END_SECTION:activity-->
 
+---
+### Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ## 🍳 OS & Tools & Programming
 
