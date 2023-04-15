@@ -40,6 +40,7 @@ Bash                  2 hrs 42 mins   ▓░░░░░░░░░░░░░
 ---
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [为TailwindCSS开发显示屏幕尺寸插件](https://www.realtong.cn/blog/tailwindcssplugin)
 - [签发Google证书](https://www.realtong.cn/blog/auto-issue-google-public-certificates-using-acmedotsh)
 - [快速 安全 低成本回家方案 - WireGuard](https://www.realtong.cn/blog/8)
 - [美化7-zip](https://www.realtong.cn/blog/3)
