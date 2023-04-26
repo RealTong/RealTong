@@ -30,11 +30,11 @@ TypeScript            2 hrs 53 mins   ▓░░░░░░░░░░░░░
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/RealTong/realtong.cn/pull/2) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+1. ❗️ Closed issue [#881](https://github.com/fuergaosi233/wechat-chatgpt/issues/881) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 2. 🎉 Merged PR [#2](https://github.com/RealTong/realtong.cn/pull/2) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-3. 🎉 Merged PR [#1](https://github.com/RealTong/realtong.cn/pull/1) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-4. 💪 Opened PR [#1](https://github.com/RealTong/realtong.cn/pull/1) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-5. 🗣 Commented on [#865](https://github.com/fuergaosi233/wechat-chatgpt/issues/865) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+3. 🎉 Merged PR [#2](https://github.com/RealTong/realtong.cn/pull/2) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+4. 🎉 Merged PR [#1](https://github.com/RealTong/realtong.cn/pull/1) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+5. 💪 Opened PR [#1](https://github.com/RealTong/realtong.cn/pull/1) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
 <!--END_SECTION:activity-->
 
 ---
