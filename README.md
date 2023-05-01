@@ -30,11 +30,11 @@ PowerShell            3 hrs 20 mins   █░░░░░░░░░░░░░
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#881](https://github.com/fuergaosi233/wechat-chatgpt/issues/881) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-2. 🎉 Merged PR [#2](https://github.com/RealTong/realtong.cn/pull/2) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-3. 🎉 Merged PR [#2](https://github.com/RealTong/realtong.cn/pull/2) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-4. 🎉 Merged PR [#1](https://github.com/RealTong/realtong.cn/pull/1) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-5. 💪 Opened PR [#1](https://github.com/RealTong/realtong.cn/pull/1) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+1. 🎉 Merged PR [#3](https://github.com/RealTong/realtong.cn/pull/3) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+2. 💪 Opened PR [#3](https://github.com/RealTong/realtong.cn/pull/3) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+3. ❗️ Closed issue [#881](https://github.com/fuergaosi233/wechat-chatgpt/issues/881) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+4. 🎉 Merged PR [#2](https://github.com/RealTong/realtong.cn/pull/2) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+5. 🎉 Merged PR [#2](https://github.com/RealTong/realtong.cn/pull/2) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
 <!--END_SECTION:activity-->
 
 ---
