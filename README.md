@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2023 - To: 04 May 2023
+From: 05 April 2023 - To: 05 May 2023
 
-JavaScript            36 hrs 16 mins  █████████▓░░░░░░░░░░░░░░░   38.06 %
-TypeScript            16 hrs 45 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
-JSON                  11 hrs 5 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Java                  9 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Astro                 3 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JavaScript            32 hrs 29 mins  ████████▓░░░░░░░░░░░░░░░░   34.20 %
+TypeScript            17 hrs 4 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+JSON                  11 hrs 19 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+Java                  9 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Astro                 3 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
