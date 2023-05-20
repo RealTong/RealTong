@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2023 - To: 17 May 2023
+From: 18 April 2023 - To: 18 May 2023
 
-TypeScript                 62 hrs 32 mins  █████████████░░░░░░░░░░░░   52.63 %
-JSON                       11 hrs 5 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-JavaScript                 8 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Docker                     7 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Java                       4 hrs 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+TypeScript                 64 hrs 5 mins   █████████████▒░░░░░░░░░░░   53.50 %
+JSON                       11 hrs 1 min    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Docker                     7 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+JavaScript                 7 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Java                       4 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
