@@ -29,11 +29,11 @@ Other                 7 hrs 9 mins    █░░░░░░░░░░░░░
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/tatsu-lab/alpaca_eval/issues/39) in [tatsu-lab/alpaca_eval](https://github.com/tatsu-lab/alpaca_eval)
-2. ❗ Opened issue [#19](https://github.com/zjunlp/KnowLLM/issues/19) in [zjunlp/KnowLLM](https://github.com/zjunlp/KnowLLM)
-3. 🎉 Merged PR [#5](https://github.com/RealTong/realtong.cn/pull/5) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-4. 💪 Opened PR [#5](https://github.com/RealTong/realtong.cn/pull/5) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-5. 💪 Opened PR [#4](https://github.com/RealTong/realtong.cn/pull/4) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+1. 🔒 Closed issue [#896](https://github.com/fuergaosi233/wechat-chatgpt/issues/896) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+2. ❗ Opened issue [#39](https://github.com/tatsu-lab/alpaca_eval/issues/39) in [tatsu-lab/alpaca_eval](https://github.com/tatsu-lab/alpaca_eval)
+3. ❗ Opened issue [#19](https://github.com/zjunlp/KnowLLM/issues/19) in [zjunlp/KnowLLM](https://github.com/zjunlp/KnowLLM)
+4. 🎉 Merged PR [#5](https://github.com/RealTong/realtong.cn/pull/5) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+5. 💪 Opened PR [#5](https://github.com/RealTong/realtong.cn/pull/5) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
 <!--END_SECTION:activity-->
 
 ---
