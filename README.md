@@ -1,9 +1,6 @@
 ## Hi, there! I'm Tong <img src="https://raw.githubusercontent.com/realtong/realtong/main/wave.gif" width="30px">
 
 
-
-- 🌱 I’m currently learning **Java and React**
-- 💬 Ask me about **Java, React and Linux**
 - 📫 How to reach me: **[i#realtong.cn](mailto:i@realtong.cn)** on Email
 - 🔑 PGP Key: [ed25519/0CC8 F405 497C 7DF6 5106 8985 A9EA 24D5 6A13 E542](https://github.com/RealTong.gpg) (Master Key)
   
