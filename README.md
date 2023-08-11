@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2023 - To: 08 August 2023
+From: 10 July 2023 - To: 09 August 2023
 
-TypeScript            73 hrs 43 mins  ███████████▒░░░░░░░░░░░░░   44.83 %
-Python                30 hrs 55 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
-Bash                  13 hrs 29 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-JSON                  12 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Text                  10 hrs 20 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+TypeScript            80 hrs 16 mins  ████████████░░░░░░░░░░░░░   47.85 %
+Python                32 hrs 32 mins  █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+Bash                  13 hrs 27 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+Text                  10 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Other                 7 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
