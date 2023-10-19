@@ -26,10 +26,10 @@ HTTP Request          1 hr 13 mins    ▒░░░░░░░░░░░░░
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/RealTong/realtong.cn/pull/7) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-2. 🎉 Merged PR [#6](https://github.com/RealTong/realtong.cn/pull/6) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-3. 🗣 Commented on [#107](https://github.com/HazyResearch/manifest/issues/107#issuecomment-1716994694) in [HazyResearch/manifest](https://github.com/HazyResearch/manifest)
-4. 🔒 Closed issue [#896](https://github.com/fuergaosi233/wechat-chatgpt/issues/896) in [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+1. 🎉 Merged PR [#2](https://github.com/RealTong/unicode-search/pull/2) in [RealTong/unicode-search](https://github.com/RealTong/unicode-search)
+2. 🎉 Merged PR [#7](https://github.com/RealTong/realtong.cn/pull/7) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+3. 🎉 Merged PR [#6](https://github.com/RealTong/realtong.cn/pull/6) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+4. 🗣 Commented on [#107](https://github.com/HazyResearch/manifest/issues/107#issuecomment-1716994694) in [HazyResearch/manifest](https://github.com/HazyResearch/manifest)
 5. ❗ Opened issue [#39](https://github.com/tatsu-lab/alpaca_eval/issues/39) in [tatsu-lab/alpaca_eval](https://github.com/tatsu-lab/alpaca_eval)
 <!--END_SECTION:activity-->
 
