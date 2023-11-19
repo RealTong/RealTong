@@ -26,11 +26,11 @@ YAML                  2 hrs 17 mins   ▒░░░░░░░░░░░░░
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/RealTong/unicode-search/pull/2) in [RealTong/unicode-search](https://github.com/RealTong/unicode-search)
-2. 🎉 Merged PR [#7](https://github.com/RealTong/realtong.cn/pull/7) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-3. 🎉 Merged PR [#6](https://github.com/RealTong/realtong.cn/pull/6) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-4. 🗣 Commented on [#107](https://github.com/HazyResearch/manifest/issues/107#issuecomment-1716994694) in [HazyResearch/manifest](https://github.com/HazyResearch/manifest)
-5. ❗ Opened issue [#39](https://github.com/tatsu-lab/alpaca_eval/issues/39) in [tatsu-lab/alpaca_eval](https://github.com/tatsu-lab/alpaca_eval)
+1. 💪 Opened PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🎉 Merged PR [#2](https://github.com/RealTong/unicode-search/pull/2) in [RealTong/unicode-search](https://github.com/RealTong/unicode-search)
+3. 🎉 Merged PR [#7](https://github.com/RealTong/realtong.cn/pull/7) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+4. 🎉 Merged PR [#6](https://github.com/RealTong/realtong.cn/pull/6) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+5. 🗣 Commented on [#107](https://github.com/HazyResearch/manifest/issues/107#issuecomment-1716994694) in [HazyResearch/manifest](https://github.com/HazyResearch/manifest)
 <!--END_SECTION:activity-->
 
 ---
