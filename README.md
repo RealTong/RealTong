@@ -26,11 +26,11 @@ Markdown              2 hrs 50 mins   ▓░░░░░░░░░░░░░
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🎉 Merged PR [#2](https://github.com/RealTong/unicode-search/pull/2) in [RealTong/unicode-search](https://github.com/RealTong/unicode-search)
-3. 🎉 Merged PR [#7](https://github.com/RealTong/realtong.cn/pull/7) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-4. 🎉 Merged PR [#6](https://github.com/RealTong/realtong.cn/pull/6) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-5. 🗣 Commented on [#107](https://github.com/HazyResearch/manifest/issues/107#issuecomment-1716994694) in [HazyResearch/manifest](https://github.com/HazyResearch/manifest)
+1. ❌ Closed PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 💪 Opened PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🎉 Merged PR [#2](https://github.com/RealTong/unicode-search/pull/2) in [RealTong/unicode-search](https://github.com/RealTong/unicode-search)
+4. 🎉 Merged PR [#7](https://github.com/RealTong/realtong.cn/pull/7) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+5. 🎉 Merged PR [#6](https://github.com/RealTong/realtong.cn/pull/6) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
 <!--END_SECTION:activity-->
 
 ---
