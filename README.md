@@ -26,9 +26,9 @@ JSON          1 hr 12 mins    █░░░░░░░░░░░░░░░�
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 💪 Opened PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🎉 Merged PR [#2](https://github.com/RealTong/unicode-search/pull/2) in [RealTong/unicode-search](https://github.com/RealTong/unicode-search)
+1. 🎉 Merged PR [#10](https://github.com/RealTong/realtong.cn/pull/10) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
+2. ❌ Closed PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 💪 Opened PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
 4. 🎉 Merged PR [#7](https://github.com/RealTong/realtong.cn/pull/7) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
 5. 🎉 Merged PR [#6](https://github.com/RealTong/realtong.cn/pull/6) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
 <!--END_SECTION:activity-->
