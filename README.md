@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2024 - To: 11 February 2024
+From: 13 January 2024 - To: 12 February 2024
 
-YAML             11 hrs 8 mins   ███████▒░░░░░░░░░░░░░░░░░   29.79 %
-TypeScript       8 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   23.53 %
-Other            4 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-JavaScript       4 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Python           2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+YAML             10 hrs 58 mins  ███████▓░░░░░░░░░░░░░░░░░   30.14 %
+TypeScript       7 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+Other            4 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+JavaScript       4 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Python           2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
 ```
 
 <!--END_SECTION:waka-->
