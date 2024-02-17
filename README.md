@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2024 - To: 14 February 2024
+From: 16 January 2024 - To: 15 February 2024
 
 YAML             10 hrs 58 mins  ███████▒░░░░░░░░░░░░░░░░░   28.98 %
 TypeScript       9 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
-Other            5 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Other            5 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
 JavaScript       3 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
 Python           2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
 ```
