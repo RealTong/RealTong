@@ -36,9 +36,9 @@ Python           2 hrs 36 mins   █▓░░░░░░░░░░░░░�
 ---
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Notion-Next-TestPage](https://www.realtong.cn/blog/testpage)
-- [2023年Python包管理最佳实践](https://www.realtong.cn/blog/poetry)
-- [SSE 在 NextJS 中的完整指南](https://www.realtong.cn/blog/nextjs&sse)
-- [为TailwindCSS开发显示屏幕尺寸插件](https://www.realtong.cn/blog/tailwindcssplugin)
-- [签发Google证书](https://www.realtong.cn/blog/auto-issue-google-public-certificates-using-acmedotsh)
+- [香港之行](https://www.realtong.cn/posts/hongkong-trip/)
+- [2023 年 Python 包最佳实践](https://www.realtong.cn/posts/2023-python-package-best-practices/)
+- [SSE 在 NextJS 中的使用指南](https://www.realtong.cn/posts/nextjs-sse-guide/)
+- [为 TailwindCSS 开发显示屏幕尺寸插件](https://www.realtong.cn/posts/develop-tailwind-plugin/)
+- [自动签发 Google 提供的免费 SSL 证书](https://www.realtong.cn/posts/issue-google-public-cert/)
 <!-- BLOG-POST-LIST:END -->
