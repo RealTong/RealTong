@@ -34,4 +34,4 @@ jobs:
       - name: Pull in realtong.cn posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.realtong.cn/feed"
+          feed_list: "https://www.realtong.cn/rss.xml"
