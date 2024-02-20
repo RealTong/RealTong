@@ -36,9 +36,9 @@ Markdown         2 hrs 44 mins   █▓░░░░░░░░░░░░░�
 ---
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [使用 Touch ID 为 sudo 添加指纹验证](https://www.realtong.cn/posts/touchid-for-sudo/)
 - [每年问自己的 40 个问题（2023）](https://www.realtong.cn/posts/40-questions-to-ask-yourself-each-year-2023/)
 - [香港之行](https://www.realtong.cn/posts/hongkong-trip/)
 - [2023 年 Python 包最佳实践](https://www.realtong.cn/posts/2023-python-package-best-practices/)
 - [SSE 在 NextJS 中的使用指南](https://www.realtong.cn/posts/nextjs-sse-guide/)
-- [为 TailwindCSS 开发显示屏幕尺寸插件](https://www.realtong.cn/posts/develop-tailwind-plugin/)
 <!-- BLOG-POST-LIST:END -->
