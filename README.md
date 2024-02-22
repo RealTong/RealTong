@@ -36,9 +36,9 @@ JavaScript       3 hrs 46 mins   ██░░░░░░░░░░░░░�
 ---
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [好好说话 -- 梁欢](https://www.realtong.cn/posts/hao-hao-shuo-hua/)
 - [使用 Touch ID 为 sudo 添加指纹验证](https://www.realtong.cn/posts/touchid-for-sudo/)
 - [每年问自己的 40 个问题（2023）](https://www.realtong.cn/posts/40-questions-to-ask-yourself-each-year-2023/)
+- [NextJS 14 新特性总结](https://www.realtong.cn/posts/nextjs-14/)
 - [香港之行](https://www.realtong.cn/posts/hongkong-trip/)
-- [2023 年 Python 包最佳实践](https://www.realtong.cn/posts/2023-python-package-best-practices/)
-- [SSE 在 NextJS 中的使用指南](https://www.realtong.cn/posts/nextjs-sse-guide/)
 <!-- BLOG-POST-LIST:END -->
