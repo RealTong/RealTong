@@ -26,8 +26,8 @@ JavaScript       3 hrs 46 mins   ██░░░░░░░░░░░░░�
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/RealTong/realtong.cn/pull/10) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-2. ❌ Closed PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🗣 Commented on [#1](https://github.com/RealTong/learn-nextjs-14/issues/1#issuecomment-1959297429) in [RealTong/learn-nextjs-14](https://github.com/RealTong/learn-nextjs-14)
+2. 🎉 Merged PR [#10](https://github.com/RealTong/realtong.cn/pull/10) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
 3. 💪 Opened PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
 4. 🎉 Merged PR [#7](https://github.com/RealTong/realtong.cn/pull/7) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
 5. 🎉 Merged PR [#6](https://github.com/RealTong/realtong.cn/pull/6) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
