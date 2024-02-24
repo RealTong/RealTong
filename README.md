@@ -7,10 +7,6 @@
   - `ed25519/0x5231719D046AFA48(signing subkey)`
   - `cv25519/0xF55FCC55F395A32D(encryption subkey)`
   - `ed25519/0xD20C1236213B3045(authentication subkey)`
-
----
-![](https://pixel-profile.vercel.app/api/github-stats?username=RealTong&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
-
 ---
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,3 +16,6 @@
 - [NextJS 14 新特性总结](https://www.realtong.cn/posts/nextjs-14/)
 - [香港之行](https://www.realtong.cn/posts/hongkong-trip/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+![](https://pixel-profile.vercel.app/api/github-stats?username=RealTong&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
