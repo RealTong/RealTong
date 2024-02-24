@@ -2,29 +2,10 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 14 * * *'
   workflow_dispatch:
 
 jobs:
-  update-waka:
-    name: Update wakatime
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: last_30_days
-  update-activity:
-    name: Update latest events
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        with:
-          MAX_LINES: 5
   update-latest-blog:
     name: Update latest blog posts
     runs-on: ubuntu-latest
