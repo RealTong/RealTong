@@ -8,30 +8,8 @@
   - `cv25519/0xF55FCC55F395A32D(encryption subkey)`
   - `ed25519/0xD20C1236213B3045(authentication subkey)`
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 23 January 2024 - To: 22 February 2024
-
-TypeScript       14 hrs 10 mins  ███████░░░░░░░░░░░░░░░░░░   28.42 %
-YAML             11 hrs 15 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-Markdown         6 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Other            4 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-JavaScript       3 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-```
-
-<!--END_SECTION:waka-->
-
 ---
-### Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/RealTong/learn-nextjs-14/issues/1#issuecomment-1959297429) in [RealTong/learn-nextjs-14](https://github.com/RealTong/learn-nextjs-14)
-2. 🎉 Merged PR [#10](https://github.com/RealTong/realtong.cn/pull/10) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-3. 💪 Opened PR [#9312](https://github.com/raycast/extensions/pull/9312) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🎉 Merged PR [#7](https://github.com/RealTong/realtong.cn/pull/7) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-5. 🎉 Merged PR [#6](https://github.com/RealTong/realtong.cn/pull/6) in [RealTong/realtong.cn](https://github.com/RealTong/realtong.cn)
-<!--END_SECTION:activity-->
+![](https://pixel-profile.vercel.app/api/github-stats?username=RealTong&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
 
 ---
 ### Recent Blog Posts
