@@ -10,11 +10,11 @@
 ---
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [为 Authentik 添加 Passwordless 支持](https://www.realtong.cn/posts/authentik-passwordless/)
 - [使用 Authentik 为自部署服务添加 SSO 支持](https://www.realtong.cn/posts/authentik-sso/)
 - [What&#39;s in my Raycast](https://www.realtong.cn/posts/what-s-in-my-raycast/)
 - [家庭无污染DNS配置指南](https://www.realtong.cn/posts/dns-configuration/)
 - [YubiKey 使用](https://www.realtong.cn/posts/yubikey-guide/)
-- [好好说话 -- 梁欢](https://www.realtong.cn/posts/hao-hao-shuo-hua/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
