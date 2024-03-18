@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in realtong.cn posts
+      - name: Pull in realtong.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.realtong.cn/rss.xml"
+          feed_list: "https://realtong.com/rss.xml"
