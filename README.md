@@ -7,6 +7,11 @@
   - `ed25519/0x5231719D046AFA48(signing subkey)`
   - `cv25519/0xF55FCC55F395A32D(encryption subkey)`
   - `ed25519/0xD20C1236213B3045(authentication subkey)`
+- 🔗 Crypto addresses:
+  - SOL: [`X544XPTjUgFSJaYroqMjyV1MjvdY8Bdxo794aPXToig`](https://solscan.io/account/X544XPTjUgFSJaYroqMjyV1MjvdY8Bdxo794aPXToig)
+  - ETH: [`0x26a3802f69bf6cd1e4130e4d02bc21fdbf2d23f7`](https://etherscan.io/address/0x26a3802f69bf6cd1e4130e4d02bc21fdbf2d23f7)
+  - BSC: [`0x26a3802f69bf6cd1e4130e4d02bc21fdbf2d23f7`](https://bscscan.com/address/0x26a3802f69bf6cd1e4130e4d02bc21fdbf2d23f7)
+
 ---
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
