@@ -19,7 +19,6 @@
 - Languages & Frameworks: : `Python` `TypeScript` `React`
 - Hosting & Deployment: `Vercel` `Railway` 
 - Note-taking: `Feishu Document` `Google Sheets`
----
 
 ---
 ### Recent Blog Posts
