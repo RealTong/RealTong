@@ -13,6 +13,15 @@
   - BSC: [`0x26a3802f69bf6cd1e4130e4d02bc21fdbf2d23f7`](https://bscscan.com/address/0x26a3802f69bf6cd1e4130e4d02bc21fdbf2d23f7)
 
 ---
+### Life is Short, Use Dev Tools
+- AI Tools: `Github Copilot` `Raycast AI(Claude-Sonnet)`
+- Development Env: `macOS` + `VSCode` + `Oh My Zsh`
+- Languages & Frameworks: : `Python` `TypeScript` `React`
+- Hosting & Deployment: `Vercel` `Railway` 
+- Note-taking: `Feishu Document` `Google Sheets`
+---
+
+---
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [为 Authentik 添加 Passwordless 支持](https://www.realtong.com/posts/authentik-passwordless/)
