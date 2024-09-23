@@ -23,11 +23,11 @@
 ---
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2024-08-26 大阪 &amp; 奈良](https://www.realtong.com/posts/osaka20240826-trip/)
 - [为 Authentik 添加 Passwordless 支持](https://www.realtong.com/posts/authentik-passwordless/)
 - [使用 Authentik 为自部署服务添加 SSO 支持](https://www.realtong.com/posts/authentik-sso/)
 - [What&#39;s in my Raycast](https://www.realtong.com/posts/what-s-in-my-raycast/)
 - [家庭无污染DNS配置指南](https://www.realtong.com/posts/dns-configuration/)
-- [YubiKey 使用](https://www.realtong.com/posts/yubikey-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
